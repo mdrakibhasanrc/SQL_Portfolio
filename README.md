@@ -8,4 +8,4 @@ Welcome to my SQL Portfolio! I am a passionate and results-driven database profe
  Tools: Familiarity with industry-standard tools such as MySQL Workbench and Google BigQuery Console for database development and management.
  Data Warehousing: Skillful in the design, implementation, and optimization of data warehouses to facilitate efficient data storage and retrieval.
 
-Feel free to reach out if you have any questions or opportunities for collaboration. Connect with me for the latest updates and professional networking.
+#### Feel free to reach out if you have any questions or opportunities for collaboration. Connect with me for the latest updates and professional networking.
